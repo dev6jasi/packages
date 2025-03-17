@@ -1,5 +1,5 @@
 ## NEXT
-
+* Adds privacy manifest.
 * Updates minimum Flutter version to 3.3.
 * Aligns Dart and Flutter SDK constraints.
 
